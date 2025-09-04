@@ -1,0 +1,7 @@
+cd crm-app
+git init
+git add .
+git commit -m "Initial CRM app commit"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/crm-clients.git
+git push -u origin main
