@@ -1,4 +1,4 @@
-const SHEET_CSV_URL = "{CSV_URL}";
+const SHEET_CSV_URL = "{https://docs.google.com/spreadsheets/d/14lWFVsVZNDDn4CON2WHM6B1Qb1v1tKrzoyZ2XWaL6-o/edit?usp=sharing}";
 
 async function loadClients() {
   const res = await fetch(SHEET_CSV_URL);
