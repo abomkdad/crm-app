@@ -1,5 +1,5 @@
 // 🔗 استبدل الرابط أدناه برابط النشر بصيغة CSV من Google Sheets
-const SHEET_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-xxxx/pub?output=csv";
+const SHEET_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQpH32aTTpTHLWa0Xn5UnfyUvyG4q_fZ5JELYshIerJ55yh0KP9gJ0-e108ABq_-mkoIA2zpGM07bdG/pub?output=csv";
 
 async function loadClients() {
   try {
